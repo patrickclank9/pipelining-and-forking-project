@@ -1,0 +1,4 @@
+this is an input file.
+it has a number of lines.
+that number is equal to the number of words in the next sentence.
+the number is 4.
